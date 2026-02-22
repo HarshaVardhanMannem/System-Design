@@ -1,0 +1,17 @@
+# Build / install
+*.egg-info/
+*.egg
+build/
+dist/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local
+.venv/
+venv/
+env/
